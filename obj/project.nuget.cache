@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9mRxVuRHfS+feXqfSprcXuJdZ1uRUCVDhOLUvhSEige6/KP31x1VhP+NFnK9ZMrft3LJezNxnww8JgJ4SLHOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\dil\\IndividualProject\\IndividualProject\\IndividualProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
